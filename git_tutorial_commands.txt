@@ -1,0 +1,7 @@
+# 创建仓库
+git init
+git add README.md
+git commit -m "first commit"
+
+git remote add origin https://github.com/BaoP0/reflections.git #添加远程仓库
+git push -u origin master
